@@ -4,4 +4,6 @@ if(n%2==0):
 else:
     print("odd")
 
-output:
+output: 
+enter a number: 42
+even
